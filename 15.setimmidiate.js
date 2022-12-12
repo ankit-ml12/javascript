@@ -1,0 +1,1 @@
+//The setImmediate function is used to execute a function right after the current event loop finishes. In simple terms, the function functionToExecute is called after all the statements in the script are executed. It is the same as calling the setTimeout function with zero delays.
