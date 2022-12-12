@@ -22,3 +22,13 @@ var square4 = square(4)
 
 
 //  It is a stack Every time in the bottom of the stack we have our global execution context. That means, whenever any JS program is run, this call stack is populated with this Global execution context. This whole execution context is pushed inside this stack. Okay? Remember this. Whenever a function is invoked, or a new execution context is created, as in case here, in line number 6, we created this execution context, So this execution context is put inside the stack.
+
+
+
+// call stack also call with the name of
+
+// execution contest stack
+// program stack
+// control stack
+// runtime stack
+// machine stack
