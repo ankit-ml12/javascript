@@ -16,4 +16,15 @@ z();
 // wheneven a function is return it allways remember it's lexical scope
 // so when we are returning y then that means we are returning whole clouser {function with its lexical scope};
 
-// 
+// closure not only consider its parent it also consider parents, parents and their parents and so on......
+
+
+// Uses of closure:- 
+// Module design pattern 
+// currying
+// functions like once 
+// memoize 
+// maintaining state in async world 
+// setTimeouts 
+// Iterators 
+// ans many more....
