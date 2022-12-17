@@ -21,3 +21,6 @@
 // so browser wraps up above super power and put all then in word window and give access of this window words to the stack. or may be the js engine
 
 // even loop and call back queue
+// so all the callback operation now shifted to call back queue and and once the callback function is ready to execute the event loop  shifted them into the stack
+
+//do again last 15 min with homework
