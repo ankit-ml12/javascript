@@ -4,3 +4,5 @@
 
 // so we try our main thread never block
 // even if we create 0 sec settimeout function it provide chance only when when our stack become empty of our global execution context remove from the stack or  main thread
+
+// we need this concurrency model becasue js is a single threaded language and with the help of cb we can perform asynchronus operation in js
