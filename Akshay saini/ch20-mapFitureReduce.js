@@ -30,3 +30,11 @@ console.log(evenarr);
 
 
 // reduce function
+// we use reduce arr to come up with single value 
+const sum= arr.reduce( (acc, curr)=> acc=acc+curr)
+console.log(sum);
+const gretest= arr.reduce( (acc, curr)=> {
+    if(acc<curr){acc=curr}
+    return acc
+}, 0)
+console.log(gretest);
