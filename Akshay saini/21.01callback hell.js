@@ -4,3 +4,7 @@
 
 // but some time we need to create a lot's of the callback function which leads the problem of call back hell.
 // also called the pyramid of doom
+
+// there are two issue with callback
+//1 callback hell
+//2 inversion of control
